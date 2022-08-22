@@ -1,0 +1,11 @@
+第一步 ： git add 你的文件名+后缀
+第二步 ： git commit -m "随便写一些描述说明什么的"
+第三步 :   git push origin master  作用：将本地master分支的最新修改推送至GitHub
+
+
+
+git remote add origin git@github.com:wdpname/code_notes.git  
+	将github上的用户wdpname下的仓库code_notes与本地仓库关联起来， 
+	并给远程仓库起个小名 origin, 以指示其远程仓库code_notes (只做一次)
+
+
